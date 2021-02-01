@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on a tournament website (from scratch!) :)
 - 🌱 I’m currently learning ... Golang, Svelte.
 - 👯 I’m looking to collaborate on any web related projects :)
