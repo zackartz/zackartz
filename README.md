@@ -7,4 +7,4 @@
 - 📫 How to reach me: [email](mailto:zackmyers@lavabit.com)
 
 
-[![Zack's GitHub stats](https://github-readme-stats.vercel.app/api?username=zackartz)](https://github.com/anuraghazra/github-readme-stats)
+[![Zack's GitHub stats](https://github-readme-stats.vercel.app/api?username=zackartz&?theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
