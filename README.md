@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working at [Champria](https://champria.gg)
+- 🔭 I’m currently looking for work!
 - 🌱 I’m currently learning ... Golang, Svelte.
 - 📫 How to reach me: [email](mailto:zackmyers@lavabit.com)
 
