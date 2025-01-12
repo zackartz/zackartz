@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently looking for work!
-- 🌱 I’m currently learning ... Golang, Svelte.
+- 🌱 I’m currently learning ... Rust, Vulkan, GLSL, and a bunch more!
 - 📫 How to reach me: [email](mailto:zackmyers@lavabit.com)
 
 
